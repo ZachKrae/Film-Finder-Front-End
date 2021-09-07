@@ -1,0 +1,180 @@
+{
+    "films": [
+        {
+            "title": "Some Like it Hot",
+            "showtime": "9:30 pm",
+            "date": "Sep 4",
+            "location": "Row House Cinema",
+            "buy_ticket_link": "https://rowhousecinema.com/purchase/344782/",
+            "summary": "Billy Wilder\u2019s classic starring Marilyn Monroe, is one of the most beloved romantic comedies of all time. Tony Curtis and Jack Lemmon play musicians who dress as women to join an all-girl band in attempts to hide out from the mob \u2014 but things get complicated and comedy ensues."
+        },
+        {
+            "title": "Godzilla",
+            "showtime": "5:00 pm",
+            "date": "Sep 5",
+            "location": "Row House Cinema",
+            "buy_ticket_link": "https://rowhousecinema.com/purchase/344788/",
+            "summary": "Before Godzilla fought Kong or Mothra in 4K, he rose out of the sea and changed sci-fi films forever as an allegory for the follies of a nuclear world. We\u2019re showing the very first film in the iconic franchise. See Ishir\u00f4 Honda\u2019s original smash hit classic that brought to life the unstoppable dinosaur-like creature hell-bent on destroying Tokyo. "
+        },
+        {
+            "title": "The Night of the Hunter",
+            "showtime": "7:05 pm",
+            "date": "Sep 5",
+            "location": "Row House Cinema",
+            "buy_ticket_link": "https://rowhousecinema.com/purchase/344789/",
+            "summary": "Based on a true story out of nearby Clarksburg, West Virginia, this Robert Mitchum noir is a nightmarish fairytale thriller about a serial killing preacher in the deep south. Mitchum keeps you on the edge of your seat as he hunts two young children who know the location of a stash of money hidden by their real father. \u00a0"
+        },
+        {
+            "title": "Dog Day Afternoon",
+            "showtime": "3:00 pm",
+            "date": "Sep 10",
+            "location": "Row House Cinema",
+            "buy_ticket_link": "https://rowhousecinema.com/purchase/344802/",
+            "summary": "Sidney Lumet directed this Al Pacino classic saga in which a bank heist goes wrong and devolves into a hostage situation with a media circus as the robber\u2019s motives are slowly revealed. Based on a real would-be Brooklyn robbery. "
+        },
+        {
+            "title": "Fantastic Planet",
+            "showtime": "5:45 pm",
+            "date": "Sep 10",
+            "location": "Row House Cinema",
+            "buy_ticket_link": "https://rowhousecinema.com/purchase/344803/",
+            "summary": "This thoughtful, beautiful 1970s French sci-fi film was unlike any other animated film before it. It\u2019s a surreal and immersive experience with an amazing score and a plot that can still make you question your place on this planet and your very humanity.  "
+        },
+        {
+            "title": "Harold and Maude",
+            "showtime": "7:30 pm",
+            "date": "Sep 10",
+            "location": "Row House Cinema",
+            "buy_ticket_link": "https://rowhousecinema.com/purchase/344804/",
+            "summary": "What do a young, pessimistic teen and a free-spirited 80-year-old woman have in common? Not much, but that doesn\u2019t matter in this quirky film about the deep and enduring friendship between Harold and Maude \u2014 the all time greatest BFFs of \u201970s cinema."
+        },
+        {
+            "title": "Grey Gardens",
+            "showtime": "9:35 pm",
+            "date": "Sep 10",
+            "location": "Row House Cinema",
+            "buy_ticket_link": "https://rowhousecinema.com/purchase/344805/",
+            "summary": "Revisit the infamous Long Island summer home of Big Edie and Little Edie \u2014 the Park Avenue debutantes turned eccentric recluses. Follow filmmakers into the surreal world of Jackie Onassis\u2019 cousin and aunt in one of the most famous documentaries of all time."
+        },
+        {
+            "title": "Pleasantville",
+            "showtime": "2:15 pm",
+            "date": "Sep 17",
+            "location": "Row House Cinema",
+            "buy_ticket_link": "https://rowhousecinema.com/purchase/344830/",
+            "summary": "Surprised to see this one on our list of 90s gems? We think it\u2019s a classic! Reese Witherspoon and Tobey Maguire play two \u201990s teens who find themselves embedded in a 1950s sitcom where they add color and scandal to the monochrome world with their modern sensibilities."
+        },
+        {
+            "title": "La Haine",
+            "showtime": "5:00 pm",
+            "date": "Sep 17",
+            "location": "Row House Cinema",
+            "buy_ticket_link": "https://rowhousecinema.com/purchase/344831/",
+            "summary": "Leave the glamour of the City of Lights behind, and enter the seedy underworld of a poor suburban neighborhood of Paris. This black and white film follows three young men for 24 hours after a violent riot erupts in their community."
+        },
+        {
+            "title": "10 Things I Hate About You",
+            "showtime": "7:15 pm",
+            "date": "Sep 17",
+            "location": "Row House Cinema",
+            "buy_ticket_link": "https://rowhousecinema.com/purchase/344832/",
+            "summary": "The surliest teens in a very 1990s Seattle high school find love in the style of Shakespeare\u2019s Taming of the Shrew in this Heath Ledger and Julia Styles classic. The clothes, the music, the drama, and the cast make this maybe the quintessential teen romcom. \n"
+        },
+        {
+            "title": "Trainspotting",
+            "showtime": "9:30 pm",
+            "date": "Sep 17",
+            "location": "Row House Cinema",
+            "buy_ticket_link": "https://rowhousecinema.com/purchase/344833/",
+            "summary": "Choose life. Easily one of the best films of the 1990s, this black comedy follows heroin addict Mark Renton (Ewan McGregor) as he stumbles through bad ideas and sobriety attempts with his unreliable friends"
+        },
+        {
+            "title": "Red Carpet Reopening Gala w Pulp Fiction",
+            "showtime": "5:30 pmSold Out",
+            "date": "Sep 25",
+            "location": "Row House Cinema",
+            "buy_ticket_link": "https://rowhousecinema.com/purchase/342608/",
+            "summary": "September 25, we will to throw a big ol\u2019 red carpet gala to celebrate making it through a long pandemic and the joy of experiencing cinema in a crowd. It\u2019s going to be SO MUCH FUN and we hope you\u2019ll join us."
+        },
+        {
+            "title": "Blackmail w. Live Accompaniment",
+            "showtime": "7:00 pm",
+            "date": "Sep 29",
+            "location": "Row House Cinema",
+            "buy_ticket_link": "https://rowhousecinema.com/purchase/347996/",
+            "summary": "Hitchcock's silent masterpiece with a live piano accompaniment! One night only on Sept. 29 "
+        },
+        {
+            "title": "Candyman",
+            "showtime": "7:45 PM",
+            "date": "Sep 04",
+            "location": "Hollwood Theater",
+            "buy_ticket_link": "",
+            "summary": "For as long as residents can remember, the housing projects of Chicago's Cabrini Green neighborhood were terrorized by a word-of-mouth ghost story about a supernatural killer with a hook for a hand, easily summoned by those daring to repeat his name five times into a mirror."
+        },
+        {
+            "title": "Candyman",
+            "showtime": "7:45 PM",
+            "date": "Sep 05",
+            "location": "Hollwood Theater",
+            "buy_ticket_link": "http://tix.mvtx.us?house_id=10422&movie_id=284430&perfd=09052021&perft=19:45",
+            "summary": "For as long as residents can remember, the housing projects of Chicago's Cabrini Green neighborhood were terrorized by a word-of-mouth ghost story about a supernatural killer with a hook for a hand, easily summoned by those daring to repeat his name five times into a mirror."
+        },
+        {
+            "title": "Massacre Academy",
+            "showtime": "5:00 PM",
+            "date": "Sep 05",
+            "location": "Hollwood Theater",
+            "buy_ticket_link": "http://tix.mvtx.us?house_id=10422&movie_id=320977&perfd=09052021&perft=17:00",
+            "summary": "Massacre Academy follows the story of Kris McNeil, one of the only survivors from a brutal series of murders carried out by the infamous slasher known as Carnie. Set two years after the initial rampage, Kris is simply trying to get on with her life and..."
+        },
+        {
+            "title": "Candyman",
+            "showtime": "7:45 PM",
+            "date": "Sep 06",
+            "location": "Hollwood Theater",
+            "buy_ticket_link": "http://tix.mvtx.us?house_id=10422&movie_id=284430&perfd=09062021&perft=19:45",
+            "summary": "For as long as residents can remember, the housing projects of Chicago's Cabrini Green neighborhood were terrorized by a word-of-mouth ghost story about a supernatural killer with a hook for a hand, easily summoned by those daring to repeat his name five times into a mirror."
+        },
+        {
+            "title": "Candyman",
+            "showtime": "7:45 PM",
+            "date": "Sep 07",
+            "location": "Hollwood Theater",
+            "buy_ticket_link": "http://tix.mvtx.us?house_id=10422&movie_id=284430&perfd=09072021&perft=19:45",
+            "summary": "For as long as residents can remember, the housing projects of Chicago's Cabrini Green neighborhood were terrorized by a word-of-mouth ghost story about a supernatural killer with a hook for a hand, easily summoned by those daring to repeat his name five times into a mirror."
+        },
+        {
+            "title": "Candyman",
+            "showtime": "7:45 PM",
+            "date": "Sep 08",
+            "location": "Hollwood Theater",
+            "buy_ticket_link": "http://tix.mvtx.us?house_id=10422&movie_id=284430&perfd=09082021&perft=19:45",
+            "summary": "For as long as residents can remember, the housing projects of Chicago's Cabrini Green neighborhood were terrorized by a word-of-mouth ghost story about a supernatural killer with a hook for a hand, easily summoned by those daring to repeat his name five times into a mirror."
+        },
+        {
+            "title": "Candyman",
+            "showtime": "7:45 PM",
+            "date": "Sep 09",
+            "location": "Hollwood Theater",
+            "buy_ticket_link": "http://tix.mvtx.us?house_id=10422&movie_id=284430&perfd=09092021&perft=19:45",
+            "summary": "For as long as residents can remember, the housing projects of Chicago's Cabrini Green neighborhood were terrorized by a word-of-mouth ghost story about a supernatural killer with a hook for a hand, easily summoned by those daring to repeat his name five times into a mirror."
+        },
+        {
+            "title": "The Rocky Horror Picture Show",
+            "showtime": "11:59 PM",
+            "date": "Sep 11",
+            "location": "Hollwood Theater",
+            "buy_ticket_link": "http://tix.mvtx.us?house_id=10422&movie_id=74&perfd=09112021&perft=23:59",
+            "summary": "After Janet accepts Brad's marriage proposal, the couple drives away from Ohio, only to get lost and stumble upon the castle of Dr. Frank-N-Furter, a transvestite who is holding the annual convention of visitors from the planet Transsexual."
+        },
+        {
+            "title": "The Rocky Horror Picture Show",
+            "showtime": "11:59 PM",
+            "date": "Sep 25",
+            "location": "Hollwood Theater",
+            "buy_ticket_link": "http://tix.mvtx.us?house_id=10422&movie_id=74&perfd=09252021&perft=23:59",
+            "summary": "After Janet accepts Brad's marriage proposal, the couple drives away from Ohio, only to get lost and stumble upon the castle of Dr. Frank-N-Furter, a transvestite who is holding the annual convention of visitors from the planet Transsexual."
+        }
+    ]
+}
